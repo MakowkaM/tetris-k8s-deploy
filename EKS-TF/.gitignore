@@ -14,8 +14,7 @@ override.tf.json
 ############################
 # Terraform variables (sekrety!)
 ############################
-*.tfvars
-*.tfvars.json
+
 
 ############################
 # Jenkins
